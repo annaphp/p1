@@ -1,0 +1,22 @@
+body {
+  width: 70%;
+  min-width: 700px;
+  text-align: center;
+  margin: auto;
+  color:#47476B;
+  font-family: "Verdana";
+}
+div {
+  background-color: #F0F0FF;
+  padding: 30px;
+  border-radius: 10%;
+}
+img {
+  width: 30%;
+  height: 30%;
+}
+h1   {
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  color: #660066;
+}
