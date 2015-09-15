@@ -13,3 +13,4 @@ No special directions required to use the web page.
 
 ## Outside code
 Google fonts were used for this project
+https://www.google.com/fonts#QuickUsePlace:quickUse
